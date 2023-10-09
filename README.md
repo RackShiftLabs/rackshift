@@ -4,7 +4,6 @@ RackShift offers a modular system to mount all of your home lab equipment on a 1
 
 Print your own rackmounts, or **[order them on TikTok Shop](https://www.tiktok.com/@getneonship)**.
 
-<p align="center>
-  <img src="https://github.com/RackShiftLabs/effective-bassoon/blob/main/images/RACKE_frame_IMG_6610.jpg" alt="rackmount for GS305 switch" width="350">
-  <img src="https://github.com/RackShiftLabs/effective-bassoon/blob/main/images/RACKE_frame_IMG_6610.jpg" alt="rackmount for GS305 switch" width="350">
-</p>
+<img src="https://github.com/RackShiftLabs/effective-bassoon/blob/main/images/RACKE_frame_IMG_6610.jpg" alt="base frame for rackmount" width="350">
+<img src="https://github.com/RackShiftLabs/effective-bassoon/blob/main/images/RACK_GS305_closeup_IMG_6615.jpg" alt="rackmount for GS305 switch" width="350">
+<img src="https://github.com/RackShiftLabs/effective-bassoon/blob/main/images/RACK_vented_IMG_6613.jpg" alt="vented blanking panel" width="350">
